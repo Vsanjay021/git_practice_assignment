@@ -11,6 +11,7 @@ return true;
 
 let ans=prime(13)
 if(ans==true){
+
 cosole.log(num " is  prime")
 }
 else{
