@@ -11,8 +11,8 @@ return true;
 
 let ans=prime(13)
 if(ans==true){
-cosole.log("not prime")
+cosole.log(num " is  prime")
 }
 else{
-console.log("prime")
+console.log(num "is not prime")
 }
